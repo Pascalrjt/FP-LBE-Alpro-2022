@@ -10,11 +10,11 @@
 
 Catatan: Program tidak harus dapat dijalankan, cukup ditunjukkan implementasi konsepnya saja.
 
-Inheritance;
+Inheritance;<br/>
   public class UserA extends PhoneDetail { 
   -> refer to UserA.java: line 1
 
-Encapsulation;
+Encapsulation;<br/>
     public String getPhoneNum() {
         return this.phoneNum;
     }
@@ -23,11 +23,11 @@ Encapsulation;
     } 
    -> refer to PhoneDetail.java: line 14-20
     
- Abstraction:
+ Abstraction:<br/>
   abstract public class PhoneDetail { 
   -> refer to PhoneDetail.java: line 1
  
-Polymorphism:
+Polymorphism:<br/>
   PhoneDetail userDetail1, userDetail2;
           userDetail1 = new UserA();
           userDetail2 = new UserB();
