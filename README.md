@@ -11,16 +11,18 @@
 Catatan: Program tidak harus dapat dijalankan, cukup ditunjukkan implementasi konsepnya saja.
 
 Inheritance:
-"public class UserA extends PhoneDetail {" -> refer to UserA.java: line 1
+"public class UserA extends PhoneDetail {" 
+-> refer to UserA.java: line 1
 
 Encapsulation:
-" public String getPhoneNum() {
+    public String getPhoneNum() {
         return this.phoneNum;
     }
 
     public void setPhoneNum(String phoneNum) {
         this.phoneNum = phoneNum;
-    }" -> refer to PhoneDetail.java: line 14-20
+    } 
+   -> refer to PhoneDetail.java: line 14-20
     
  Abstraction:
  "abstract public class PhoneDetail {" -> refer to PhoneDetail.java: line 1
