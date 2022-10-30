@@ -11,7 +11,7 @@
 Catatan: Program tidak harus dapat dijalankan, cukup ditunjukkan implementasi konsepnya saja.
 
 Inheritance:<br/>
-  public class UserA extends PhoneDetail { <br/>
+  public class UserA extends PhoneDetail {<br/>
   -> refer to UserA.java: line 1<br/>
 
 Encapsulation:<br/>
@@ -24,7 +24,7 @@ Encapsulation:<br/>
    -> refer to PhoneDetail.java: line 14-20<br/>
     
  Abstraction:<br/>
-  abstract public class PhoneDetail { <br/>
+  abstract public class PhoneDetail {<br/>
   -> refer to PhoneDetail.java: line 1<br/>
  
 Polymorphism:<br/>
@@ -32,10 +32,10 @@ Polymorphism:<br/>
           userDetail1 = new UserA();<br/>
           userDetail2 = new UserB();<br/>
           userDetail1.makeCall();<br/>
-          userDetail2.makeCall(); <br/>
+          userDetail2.makeCall();<br/>
   -> refer to Telephone.java: line 4-7<br/>
         
-  public class UserA extends PhoneDetail { <br/>
+  public class UserA extends PhoneDetail {<br/>
   -> refer to UserA.java: line 1<br/>
   public class UserB extends PhoneDetail {<br/>
   -> refer to UserB.java: line 1<br/>
